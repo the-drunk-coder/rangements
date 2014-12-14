@@ -23,7 +23,7 @@ happen in an order that could not happen with the algorithm itself.
 #### A series of pieces using Quicksort (2014)
 Pieces for two groups at least three singers. Each group requires at least two high and one low voice.
 Some notes in the piece are artificially extended (the drone notes in the low voices).
-Source material is the Brecht/Eisler-Song "Einheitsfrontlied"
+Source material is the Brecht/Eisler-Song "Einheitsfrontlied".
 
 * 003_00 Einheit-Ordnung Null
 * 003_01 Einheit-Ordnung Eins
