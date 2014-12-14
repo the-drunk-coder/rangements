@@ -2,6 +2,8 @@
 
 ## Algorithmic compositions using sorting algorithms.
 
+The pieces explore different possiblities to create music using sorting algorithms.
+
 ### Piece List:
 
 #### Early pieces (2009):
@@ -10,7 +12,7 @@
 
 #### A series of pieces using Mergesort (2014)
 Pieces for four singers, based on the german traditional "Steigerlied".
-The pieces are not time strict, which in this case means that things might
+The pieces are not time-strict, which in this case means that things might
 happen in an order that could not happen with the algorithm itself.
 
 * 002_00 Unter-Ordnung Null
@@ -18,7 +20,7 @@ happen in an order that could not happen with the algorithm itself.
 * 002_02 Unter-Ordnung Zwei
 * 002_03 Unter-Ordnung Drei
 
-#### A series of Pieces using Quicksort (2014)
+#### A series of pieces using Quicksort (2014)
 Pieces for two groups at least three singers. Each group requires at least two high and one low voice.
 Some notes in the piece are artificially extended (the drone notes in the low voices).
 Source material is the Brecht/Eisler-Song "Einheitsfrontlied"
