@@ -4,13 +4,13 @@
 
 The pieces explore different possiblities to create music using sorting algorithms.
 
-A short introduction can be found [here](http://www.parkellipsen.de/files/rangements.pdf)
+A short introduction can be found [here](http://www.parkellipsen.de/rangements.pdf)
 
 ### Piece List:
 
 #### Early pieces (2009):
-* 000_00 Cleaning up an American in Paris (for two instruments) ([download score](http://www.parkellipsen.de/files/000_cleaning_up_an_american_in_paris.zip))
-* 001_00 Cleaning up La Primavera (very long violin solo) ([download score](http://www.parkellipsen.de/files/001_cleaning_up_la_primavera.zip))
+* 000_00 Cleaning up an American in Paris (for two instruments) ([download score](http://www.parkellipsen.de/000_cleaning_up_an_american_in_paris.zip))
+* 001_00 Cleaning up La Primavera (very long violin solo) ([download score](http://www.parkellipsen.de/001_cleaning_up_la_primavera.zip))
 
 #### A series of pieces using Mergesort (2014)
 Pieces for four singers, based on the german traditional "Steigerlied".
@@ -22,7 +22,7 @@ happen in an order that could not happen with the algorithm itself.
 * 002_02 Unter-Ordnung Zwei
 * 002_03 Unter-Ordnung Drei
 
-([download score](http://www.parkellipsen.de/files/002_Unter-Ordnung.zip))
+([download score](http://www.parkellipsen.de/002_Unter-Ordnung.zip))
 
 #### A series of pieces using Quicksort (2014)
 Pieces for two groups at least three singers. Each group requires at least two high and one low voice.
@@ -36,7 +36,7 @@ Source material is the Brecht/Eisler-Song "Einheitsfrontlied".
 * 003_04 Einheit-Ordnung Vier
 * 003_05 Einheit-Ordnung Fünf
 
-([download score](http://www.parkellipsen.de/files/004_Einheit-Ordnung.zip))
+([download score](http://www.parkellipsen.de/004_Einheit-Ordnung.zip))
 
 ### Setup
 
